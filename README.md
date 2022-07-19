@@ -1,2 +1,2 @@
-# study-github
-깃허브 연습장.
+# study-android
+안드로이드를 정복하자
